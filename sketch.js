@@ -26,7 +26,7 @@ function preload(){
 }
 
 function setup() {
-  createCanvas(100%,85.375%);
+  createCanvas(800,683);
   time = 50;
   a = 255;
   b = 255;
