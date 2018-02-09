@@ -98,7 +98,7 @@ if (time <= 0){
 }
 
   imageMode(CENTER);
-  image(soup,mouseX,mouseY,50,50);
+  image(soup,mouseX,mouseY,65,50);
   
 
 }
